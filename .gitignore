@@ -1,2 +1,5 @@
 *.ctxt
 *.class
+.vscode/
+README.TXT
+*.bluej
